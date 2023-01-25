@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F23432860565019381%2F&psig=AOvVaw2NQhh_XAo6jTsKLw2MdkhY&ust=1674749030585000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMDhqruM4_wCFQAAAAAdAAAAABAZ"/>
+  <img src="https://visme.co/blog/wp-content/uploads/climate-change-facts-header-wide.gif" />
 </div>
 
 ### <div align="center">Hey 👋, I'm Kayla Bowling!</div>  
@@ -13,42 +13,28 @@
 <a href="https://linkedin.com/in/kbowling74" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="mailto:khowell002@gmail.com">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </div>  
   
 
 
 
-### Who am I you ask?  
+<h3 align="center"> Who am I you ask? </h3>
 <div align="center">I'm a data analyst with a background in environmental science. I like learning and applying new skills of all kinds. I find analyzing and visualizing data very cool; and when it's paired with conservation - even cooler. 
 </div>  
 <br/>
 
-<div align="center">I'm looking forward to joining a team working on these goals. Check out my pinned projects and some of the links below to take a look at my personal and academic work.</div>  
+<div align="center">I'm looking forward to joining a team working on these goals. Check out my pinned projects and some of the links below to take a look at my work.</div>  
   
 
 <br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
+<br/>
 - 🔭 I’m currently working on this [Water Quality Analysis](https://github.com/kbowling74/Water_Quality_Analysis)  
-  
+<br/>
 
-- ⚡ I also like to make maps with ESRI's products  
+[![May 2010 Floods](<img width="500" alt="Shorthand May 2010 Floods" src="https://user-images.githubusercontent.com/106560606/214631477-f9a822de-1741-4aea-8769-c7429be677be.png" />
 
-
-</td><td valign="top" width="50%">
-
-- 🌱 I’m currently learning about Machine Learning  
-  
-
-- 🤖 My favorite coding language is Python  
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
@@ -82,15 +68,11 @@
 
 <br/>  
 
-  
-
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=kbowling74&&style=flat-square)  
-  
+![Profile views counter](https://komarev.com/ghpvc/?username=kbowling74&&style=flat-square)    
 
 <br/>  
-
 
 <br />
 
