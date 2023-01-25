@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F23432860565019381%2F&psig=AOvVaw2NQhh_XAo6jTsKLw2MdkhY&ust=1674749030585000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMDhqruM4_wCFQAAAAAdAAAAABAZ"/>
 </div>
 
 ### <div align="center">Hey 👋, I'm Kayla Bowling!</div>  
