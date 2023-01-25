@@ -13,8 +13,9 @@
 <a href="https://linkedin.com/in/kbowling74" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="mailto:khowell002@gmail.com">
+<a href="mailto:khowell002@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
@@ -27,18 +28,24 @@
 
 <div align="center">I'm looking forward to joining a team working on these goals. Check out my pinned projects and some of the links below to take a look at my work.</div>  
   
-
 <br/>  
-<br/>
-- 🔭 I’m currently working on this [Water Quality Analysis](https://github.com/kbowling74/Water_Quality_Analysis)  
-<br/>
 <br/>
 
 <div>
-<a href="https://preview.shorthand.com/YjSqNC54Ms5qjxHL">
-<img src=https://user-images.githubusercontent.com/106560606/214631477-f9a822de-1741-4aea-8769-c7429be677be.png alt=Shorthand height=300 />
-</a>
-  </div>
+  <a href="https://preview.shorthand.com/YjSqNC54Ms5qjxHL">
+  <img style="float: right;" src=https://user-images.githubusercontent.com/106560606/214631477-f9a822de-1741-4aea-8769-c7429be677be.png alt=Shorthand        height=300 />
+  </a>
+</div>  
+
+<br/>
+<br/>
+<div>
+- 🔭 I’m currently working on this <a href="https://github.com/kbowling74/Water_Quality_Analysis" title="Water Quality Analysis">Water Quality Analysis</a>
+</div>
+  <br/>
+<br/>
+
+
 
 
 
