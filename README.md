@@ -21,42 +21,37 @@
 
 
 
-<h3 align="center"> Who am I you ask? </h3>
-<div align="center">I'm a data analyst with a background in environmental science. I like learning and applying new skills of all kinds. I find analyzing and visualizing data very cool; and when it's paired with conservation - even cooler. 
+<h2 align="center"> Who am I you ask? </h2>
+<div align="center">I'm a data analyst with a background in environmental science. I like learning and applying new skills of all kinds. I find analyzing and visualizing data very cool; and when it's paired with sustainability - even cooler. 
 </div>  
 <br/>
 
 <div align="center">I'm looking forward to joining a team working on these goals. Check out my pinned projects and some of the links below to take a look at my work.</div>  
   
-<br/>  
 <br/>
 
-<h3>My work</h3>
-<div>
-  <a href="https://preview.shorthand.com/YjSqNC54Ms5qjxHL">
-  <img style="float: right;" src=https://user-images.githubusercontent.com/106560606/214631477-f9a822de-1741-4aea-8769-c7429be677be.png alt=Shorthand        height=300 />
-  </a>
-</div>  
-<br/>
-<div>
-   - <a href="https://github.com/SamSteffen/Portland_Housing_Prices" title="Portland Housing Prices">Portland Housing Prices Analysis:</a> Developed a    machine learning model to predict housing prices in select suburbs of Portland, OR based on data from 2020 to 2021. Achieved an r2 value of .511.<br/>
-<i> Role: Machine learning architect, Database co-architect, Exploratory data analyst <br/>
-Tools: Python, PostgreSQL, Tableau, Github, Jupyter Notebook, Numpy, Pandas, Scikit-learn, Seaborn </i><br/>
-
-
-
-<br/>
-<br/>
-<div>
+<div align="center">
 - 🔭 I’m currently working on this <a href="https://github.com/kbowling74/Water_Quality_Analysis" title="Water Quality Analysis">Water Quality Analysis</a>
 </div>
-  <br/>
+
+<h2 align="center">My Completed Projects</h2>
+<div align="center">
+  <a href="https://preview.shorthand.com/YjSqNC54Ms5qjxHL">
+  <img src=https://user-images.githubusercontent.com/106560606/214631477-f9a822de-1741-4aea-8769-c7429be677be.png alt=Shorthand height=300 />
+  </a><br/><br/>
+  - An article on the 2010 Nashville floods and how climate change has shaped preparedness efforts for potential extreme flooding in the furture. Statements from a local hydrologist and the former braodcast meteorologist who were both working during the flood.<br/>
+</div>  
+
 <br/>
 
-
-
-
-
+<div>
+   - <a href="https://github.com/SamSteffen/Portland_Housing_Prices" title="Portland Housing Prices">Portland Housing Prices Analysis:</a> Collaborated a    machine learning model to predict housing prices in Portland, OR based on data from 2020 to 2021. Achieved an r2 value of .511.<br/>
+  <ul>
+    <li><i> Role: Machine learning architect, Database co-architect, Exploratory data analyst <br/></li>
+    <li>Tools: Python, PostgreSQL, Tableau, Github, Jupyter Notebook, Numpy, Pandas, Scikit-learn, Seaborn </i></li><br/>
+  </ul>
+</div>
+<br/>
 
 ## Languages and Tools  
 <div align="center">  
