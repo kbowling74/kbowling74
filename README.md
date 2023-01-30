@@ -31,11 +31,19 @@
 <br/>  
 <br/>
 
+<h3>My work</h3>
 <div>
   <a href="https://preview.shorthand.com/YjSqNC54Ms5qjxHL">
   <img style="float: right;" src=https://user-images.githubusercontent.com/106560606/214631477-f9a822de-1741-4aea-8769-c7429be677be.png alt=Shorthand        height=300 />
   </a>
 </div>  
+<br/>
+<div>
+   - <a href="https://github.com/SamSteffen/Portland_Housing_Prices" title="Portland Housing Prices">Portland Housing Prices Analysis:</a> Developed a    machine learning model to predict housing prices in select suburbs of Portland, OR based on data from 2020 to 2021. Achieved an r2 value of .511.<br/>
+<i> Role: Machine learning architect, Database co-architect, Exploratory data analyst <br/>
+Tools: Python, PostgreSQL, Tableau, Github, Jupyter Notebook, Numpy, Pandas, Scikit-learn, Seaborn </i><br/>
+
+
 
 <br/>
 <br/>
