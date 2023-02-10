@@ -22,7 +22,7 @@
 
 
 <h2 align="center"> Who am I you ask? </h2>
-<div align="center">I'm a data analyst with a background in environmental science. I like learning and applying new skills of all kinds. I find analyzing and visualizing data very cool; and when it's paired with sustainability - even cooler. 
+<div align="center">I'm a data analyst with a background in environmental science. I like learning and applying new skills of all kinds. I find analyzing and visualizing data very cool; and when it's paired with sustainability and climate tech - even cooler. 
 </div>  
 <br/>
 
