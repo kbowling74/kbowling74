@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/kbowling74" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="mailto:khowell002@gmail.com" target="_blank">
+<a href="mailto:kbowling074@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 </div>  
@@ -30,28 +30,23 @@
   
 <br/>
 
-<div align="center">
-- 🔭 I’m currently working on this <a href="https://github.com/kbowling74/Water_Quality_Analysis" title="Water Quality Analysis">Water Quality Analysis</a>
-</div>
-
-<h2 align="center">My Completed Projects</h2>
-<div align="center">
+## My Projects
+<div>
+🔭 <b>CURRENT PROJECTS:</b><br>
+  <ul>
+<li>A <a href="https://github.com/kbowling74/Water_Quality_Analysis" title="Water Quality Analysis">Water Quality Analysis</a> with data I personally collected. Analyzing pollution near marinas/boat ramps using jupyter notebook, pandas, and seaborn. Making maps and a dashboard for results with Tableau. </li></ul>
+  
   <a href="https://preview.shorthand.com/YjSqNC54Ms5qjxHL">
   <img src=https://user-images.githubusercontent.com/106560606/214631477-f9a822de-1741-4aea-8769-c7429be677be.png alt=Shorthand height=300 />
   </a><br/><br/>
-  - An article on the 2010 Nashville floods and how climate change has shaped preparedness efforts for potential extreme flooding in the furture. Statements from a local hydrologist and the former braodcast meteorologist who were both working during the flood.<br/>
-</div>  
+- An article on the 2010 Nashville floods and how climate change has shaped preparedness efforts for potential extreme flooding in the furture.          Statements from a local hydrologist and the former braodcast meteorologist who were both working during the flood.<br/>
 
-<br/>
-
-<div>
-   - <a href="https://github.com/SamSteffen/Portland_Housing_Prices" title="Portland Housing Prices">Portland Housing Prices Analysis:</a> Collaborated a    machine learning model to predict housing prices in Portland, OR based on data from 2020 to 2021. Achieved an r2 value of .511.<br/>
+<a href="https://github.com/SamSteffen/Portland_Housing_Prices" title="Portland Housing Prices">Portland Housing Prices Analysis:</a> Collaborated a       machine learning model to predict housing prices in Portland, OR based on data from 2020 to 2021. Achieved an r2 value of .511.<br/>
   <ul>
     <li><i> Role: Machine learning architect, Database co-architect, Exploratory data analyst <br/></li>
     <li>Tools: Python, PostgreSQL, Tableau, Github, Jupyter Notebook, Numpy, Pandas, Scikit-learn, Seaborn </i></li><br/>
   </ul>
 </div>
-<br/>
 
 ## Languages   
 <div>  
@@ -77,23 +72,16 @@
 </div>
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbowling74&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kbowling74&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
+<table><tr>
+<td valign="top" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbowling74&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td>
+  
+<td valign="top" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=kbowling74&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td></tr></table>  
-
-<br/>  
-
-<br/>  
+<br/>    
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=kbowling74&&style=flat-square)    
-
-<br/>  
-
 <br />
 
