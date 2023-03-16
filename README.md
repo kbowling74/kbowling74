@@ -47,9 +47,9 @@
     
    <br><br>
     
-<ul>
-  <li>A <a href="https://github.com/kbowling74/Water_Quality_Analysis" title="Water Quality Analysis">Water Quality Analysis</a> with data I personally       collected. Analyzing pollution near marinas/boat ramps using Excel and R Studio. A dashboard including a map and results was completed with Tableau.   </li>
-</ul>
+
+<li>A <a href="https://github.com/kbowling74/Water_Quality_Analysis" title="Water Quality Analysis">Water Quality Analysis</a> with data I personally       collected. Analyzing pollution near marinas/boat ramps using Excel and R Studio. A dashboard including a map and results was completed with Tableau.   </li>
+<br>
 
 <li><a href="https://github.com/SamSteffen/Portland_Housing_Prices" title="Portland Housing Prices">Portland Housing Prices Analysis:</a> Collaborated a       machine learning model to predict housing prices in Portland, OR based on data from 2020 to 2021. Achieved an r2 value of .511.</li>
   <ul>
