@@ -35,8 +35,9 @@
 ## My Projects
 <div>
 🔭 <b>CURRENT PROJECTS:</b><br>
-  <ul>
-<li>A <a href="https://github.com/kbowling74/Water_Quality_Analysis" title="Water Quality Analysis">Water Quality Analysis</a> with data I personally collected. Analyzing pollution near marinas/boat ramps using jupyter notebook, pandas, and seaborn. Making maps and a dashboard for results with Tableau. </li></ul>
+<ul>
+  <li>Currently finding a new idea!  </li>
+</ul>
 
 💻 <b>COMPLETED PROJECTS:</b><br>
   <a href="https://preview.shorthand.com/YjSqNC54Ms5qjxHL">
@@ -45,6 +46,10 @@
   <ul><li>An article covering the 2010 Nashville floods and how climate change has shaped preparedness efforts for potential extreme flooding in the furture. Includes statements from a local hydrologist and the former braodcast meteorologist who were both working during the flood. It's currently posted on Shorthand which can be viewed by clicking the image to the right! -> </li>
     
    <br><br>
+    
+<ul>
+  <li>A <a href="https://github.com/kbowling74/Water_Quality_Analysis" title="Water Quality Analysis">Water Quality Analysis</a> with data I personally       collected. Analyzing pollution near marinas/boat ramps using Excel and R Studio. A dashboard including a map and results was completed with Tableau.   </li>
+</ul>
 
 <li><a href="https://github.com/SamSteffen/Portland_Housing_Prices" title="Portland Housing Prices">Portland Housing Prices Analysis:</a> Collaborated a       machine learning model to predict housing prices in Portland, OR based on data from 2020 to 2021. Achieved an r2 value of .511.</li>
   <ul>
