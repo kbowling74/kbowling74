@@ -36,7 +36,7 @@
 <div>
 🔭 <b>CURRENT PROJECTS:</b><br>
 <ul>
-  <li>Currently finding a new idea!  </li>
+  <li>An <a href="https://github.com/kbowling74/Nashville_Housing">analysis of Nashville Housing data </a>. For this project I wanted to utilize Microsoft SQL Server. Working on a Mac computer has required learning to use Docker as a virtual machine to run the application and also installing Auzre Data Studio and Microsoft SQL server - four tools that are new to me. Analysis of the data will be next!</li>
 </ul>
 
 💻 <b>COMPLETED PROJECTS:</b><br>
