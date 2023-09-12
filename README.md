@@ -22,22 +22,21 @@
 
 
 <h2 align="center"> Who am I you ask? </h2>
-<div align="center">I'm a data analyst with a background in environmental science. I like learning and applying new skills of all kinds. I find analyzing and visualizing data very cool; and when it's paired with sustainability and climate tech - even cooler. 
+
+<div align="center">I'm a data enthusiast with an emphasis on analysis and visualization. I enjoy the analytical and problem solving aspects of data analysis and the creativity and story telling aspects of data visualization. 
 </div>  
 <br/>
 
-<div align="center">I'm looking forward to joining a team working on these goals. Check out my pinned projects and some of the links below to take a look at my work.</div>
 <br>
-<div align="center">In my free time I enjoy spending time outdoors, making playlists on spotify, reading climate tech articles, and learning more about our world. </div>
+<div align="center">In my free time I enjoy creating, reading, and spending time outdoors. </div>
   
 <br/>
 
 ## My Projects
 <div>
 🔭 <b>CURRENT PROJECTS:</b><br>
-<ul>
-  <li>An <a href="https://github.com/kbowling74/Nashville_Housing">analysis of Nashville Housing data </a>. For this project I wanted to utilize Microsoft SQL Server. Working on a Mac computer has required learning to use Docker as a virtual machine to run the application and also installing Auzre Data Studio and Microsoft SQL server - four tools that are new to me. Analysis of the data will be next!</li>
-</ul>
+<ul><li>I'm creating a <a href="https://github.com/kbowling74/Dash_Project">dashboard</a> based on daily sandwich sales to assist the small business owners in decision making. Insights into general statistics, ingredients, changes to daily specials, and new oferings will be visualized for easier understanding. </li></ul>
+<br>
 
 💻 <b>COMPLETED PROJECTS:</b><br>
   <a href="https://preview.shorthand.com/YjSqNC54Ms5qjxHL">
