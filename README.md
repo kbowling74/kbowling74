@@ -1,6 +1,7 @@
 
 <div id="header" align="center">
-  <img src="https://visme.co/blog/wp-content/uploads/climate-change-facts-header-wide.gif" />
+  <img src="https://github.com/kbowling74/kbowling74/assets/106560606/2dd6a18c-c133-42aa-a417-3f876547ca8c">
+
 </div>
 
 ### <div align="center">Hey 👋, I'm Kayla Bowling!</div>  
@@ -21,7 +22,7 @@
 
 <h2 align="center"> Who am I you ask? </h2>
 
-<div align="center">I'm a data enthusiast with an emphasis on analysis and visualization. I enjoy the analytical and problem solving aspects of data analysis and the creativity and story telling aspects of data visualization. 
+<div align="center">I'm a data enthusiast with an emphasis on analysis and visualization. I enjoy the analytical and problem solving aspects that are required for data analysis and the creativity and story telling that data visualization allows.
 </div>  
 <br/>
 
@@ -33,7 +34,7 @@
 ## My Projects
 <div>
 🔭 <b>CURRENT PROJECTS:</b><br>
-<ul><li>I'm creating a <a href="https://github.com/kbowling74/Dash_Project">dashboard</a> based on daily sandwich sales to assist the small business owners in decision making. Insights into general statistics, ingredients, changes to daily specials, and new oferings will be visualized for easier understanding. </li></ul>
+<ul><li>I'm creating a <a href="https://github.com/kbowling74/Dash_Project">dashboard</a> based on daily sandwich sales to assist the small business owners in decision making. Insights into general statistics, ingredients, changes to daily specials, and new oferings will be visualized for easier understanding. Data collection will take place over our weeks to gain a suitable amount of data to analyze.  </li></ul>
 <br>
 
 💻 <b>COMPLETED PROJECTS:</b><br>
@@ -45,13 +46,13 @@
    <br><br>
     
 
-<li>A <a href="https://github.com/kbowling74/Water_Quality_Analysis" title="Water Quality Analysis">Water Quality Analysis</a> with data I personally       collected. Analyzing pollution near marinas/boat ramps using Excel and R Studio. A dashboard including a map and results was completed with Tableau.   </li>
+<li>A <a href="https://github.com/kbowling74/Water_Quality_Analysis" title="Water Quality Analysis">Water Quality Analysis</a> with data I personally       collected. Analyzing pollution near marinas/boat ramps using Excel and R Studio. A dashboard including a map and results was completed with Tableau Public.   </li>
 <br>
 
 <li><a href="https://github.com/SamSteffen/Portland_Housing_Prices" title="Portland Housing Prices">Portland Housing Prices Analysis:</a> Collaborated a       machine learning model to predict housing prices in Portland, OR based on data from 2020 to 2021. Achieved an r2 value of .511.</li>
   <ul>
     <li><i> Role: Machine learning architect, Database co-architect, Exploratory data analyst <br/></li>
-    <li>Tools: Python, PostgreSQL, Tableau, Github, Jupyter Notebook, Numpy, Pandas, Scikit-learn, Seaborn </i></li><br/>
+    <li>Tools: Python, PostgreSQL, Tableau, Jupyter Notebook, Numpy, Pandas, Scikit-learn, Seaborn </i></li><br/>
   </ul>
 </div>
 
@@ -67,7 +68,6 @@
 <div>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
