@@ -31,12 +31,6 @@
   
 <br/>
 
-## My Projects
-<div>
-🔭 <b>CURRENT PROJECTS:</b><br>
-<ul><li>I'm creating a <a href="https://github.com/kbowling74/Dash_Project">dashboard</a> based on daily sandwich sales to assist the small business owners in decision making. Insights into general statistics, ingredients, changes to daily specials, and new oferings will be visualized for easier understanding. Data collection will take place over our weeks to gain a suitable amount of data to analyze.  </li></ul>
-<br>
-
 💻 <b>COMPLETED PROJECTS:</b><br>
   <a href="https://preview.shorthand.com/YjSqNC54Ms5qjxHL">
   <img align="right" src=https://user-images.githubusercontent.com/106560606/214631477-f9a822de-1741-4aea-8769-c7429be677be.png alt=Shorthand height=200 />
@@ -84,9 +78,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbowling74&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td>
   
-<td valign="top" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=kbowling74&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td></tr></table>  
+</tr></table>  
 <br/>    
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=kbowling74&&style=flat-square)    
